@@ -21,7 +21,6 @@ drink {
 Reload i3!
 
 # Donate
----
 Help me work from home, thanks!
 <details>
   <summary><b>BNB</b></summary>
